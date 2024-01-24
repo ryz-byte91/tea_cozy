@@ -7,6 +7,17 @@ body {
 } 
 header {
     border-bottom: 1px solid seashell;
+    height: 69px;
+}
+header a {
+    display: inline-block;
+}
+h2 {
+    text-align: center;
+}
+
+.granola-pic {
+    background-image: url("./img-mission-background,jpg");
 }
 
 img#logo {
